@@ -108,6 +108,3 @@ arr = np.array(['a','b'])
 print(arr.dtype)
 arr_int = arr.astype(np.int32)
 print(arr_int)
-
-
-
